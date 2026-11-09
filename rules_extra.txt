@@ -1,0 +1,8 @@
+# UzbekConverter - qo'shimcha qoidalar (UTF-8, TAB bilan ajratilgan)
+# yo'nalish<TAB>topish<TAB>almashtirish   (Word wildcard sintaksisi)
+# 1 Eski>Yangi, 2 Yangi>Eski, 3 Eski lotin>Kirill, 5 Yangi lotin>Kirill, 4 Kirill>Lotin
+# Misol: kirilldagi "пицца" so'zini "pitsa" deb yozish
+4	пицца	pitsa
+4	Пицца	Pitsa
+3	pitsa	пицца
+5	pitsa	пицца
