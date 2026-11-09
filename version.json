@@ -1,20 +1,16 @@
 {
-  "latest": "1.0.0",
+  "latest": "1.0.1",
   "url": "https://raw.githubusercontent.com/Javicco/Uzbek-convertor-by-Javohir-/main/UzbekConverter.dotm",
-  "sha256": "754D129A48FAFBA05F03373EA6E7F26E0E48C12DF9C3C212E338443494A0D4DD",
-  "notes": "UzbekConverter 1.0.0 - birinchi versiya.",
-
+  "sha256": "F01C1023D8CE6663FBE495998B6EE2DC57647E27E6C5E1143CCE5F8640EB35CE",
+  "notes": "1.0.1: katta hujjatlarda (rasm, formula, diagramma) Word yopilib qolishi tuzatildi; ishlash ~30 marta tezlashdi.",
   "enabled": true,
   "min_version": "1.0.0",
   "blocked": "",
   "message": "",
-
   "features": "btnLatNew=1,btnLatCyr=1,btnCyrLat=1,btnBook=1,btnPdf=1,btnHelp=1",
-
   "rules_version": "",
   "rules_url": "",
   "rules_sha256": "",
-
   "notice_id": "",
   "notice": ""
 }
